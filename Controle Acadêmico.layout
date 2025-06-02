@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="11" Column="23"/>
+			<Selection Line="11" Column="17"/>
+		</File>
+		<File Name="Funcoes.h" Top="No" Tabpos="2" TopLine="14">
+			<Cursor Line="43" Column="31"/>
+		</File>
+		<File Name="Interface.h" Top="Yes" Tabpos="3" TopLine="27">
+			<Cursor Line="77" Column="27"/>
+		</File>
+	</Files>
+</Layout>
