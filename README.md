@@ -1,4 +1,5 @@
 Narrativa Descritiva da Aplicação - Sistema de Controle Acadêmico
+
 O Sistema de Controle Acadêmico foi desenvolvido com o objetivo de oferecer uma solução simples e eficiente para a gestão básica de alunos em ambientes educacionais, como escolas e cursos técnicos. Essa aplicação permite o cadastro e gerenciamento de estudantes em três turmas distintas (A, B e C), incluindo o controle de suas notas, avaliação de desempenho e agendamento de eventos acadêmicos.
 
 O sistema opera por meio de um menu interativo, onde o usuário pode navegar por diversas funcionalidades, como:
