@@ -14,6 +14,4 @@ Inclusão de eventos na agenda, vinculados a uma turma e data específica, como 
 
 Impressão de dados acadêmicos, incluindo listagem de alunos por turma com situação, e impressão completa da agenda escolar.
 
-Além disso, todos os dados cadastrados são salvos em arquivos de texto (ALUNOS.TXT, NOTAS.TXT, AGENDA.TXT), garantindo a persistência das informações para consultas futuras, mesmo após o encerramento do programa.
-
-Este sistema pode ser utilizado por coordenadores pedagógicos, professores ou responsáveis administrativos, sendo uma solução leve e funcional para controle acadêmico em pequenas instituições. Ele também oferece uma base sólida para futuras expansões, como integração com banco de dados ou interface gráfica.
+Este sistema pode ser utilizado por coordenadores pedagógicos, professores ou responsáveis administrativos, sendo uma solução leve e funcional para controle acadêmico em pequenas instituições. 
